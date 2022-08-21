@@ -1,0 +1,3 @@
+# Scandiweb Junior Developer Test.
+
+
